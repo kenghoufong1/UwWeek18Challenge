@@ -59,4 +59,4 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 <h3><p align="center">Links<h3>
 Below is a link to the recorded video because there will be no deployed website
 
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/2626d0ad-5663-44fb-y47c-73e233cf868a
+https://watch.screencastify.com/v/dQ70XamugLy5xA5qiaYE
